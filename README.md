@@ -1,2 +1,2 @@
-# visao_nutritional_label_extract
+# Visao - Nutritional Label Extract
 Projeto da Discisplina de Visão Computacional - Extração de Texto em Tabela Nutricional
